@@ -1,0 +1,3 @@
+interface RenderingStrategy {
+    void render();
+}
